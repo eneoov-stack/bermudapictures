@@ -1,0 +1,192 @@
+{
+ "_note": "사람이 고치는 값. 채널 숫자와 영상 목록은 channel.json(fetch_channel.py)에서 온다. 2026-10-04",
+ "series": [
+  {
+   "name": "에펙의 효과들",
+   "playlist": "PL9esqCzNLWdHqr8Lrrrh1pcYGJvVlt9mA",
+   "when": "매주 화 12:00",
+   "blurb": "에프터 이펙트 효과 하나를 골라 속성 하나하나를 직접 돌려 보며 정밀하게 분석해요."
+  },
+  {
+   "name": "캡컷 기초 강의",
+   "playlist": "PLEgm6afKGzb8",
+   "when": "매주 목 12:00",
+   "blurb": "캡컷 PC를 처음 여는 분도 따라올 수 있게, 화면을 천천히 보여 주며 하나씩 알려 드려요."
+  },
+  {
+   "name": "AI 영상 제작과정",
+   "playlist": "PL9esqCzNLWdGJrMGBLveaqsC5M7JQOAyV",
+   "when": "격주 토 12:00",
+   "blurb": "기획, 생성, 마감까지 AI 영상을 실제로 만든 과정을 그대로 보여 드려요."
+  },
+  {
+   "name": "에펙 튜토리얼 강좌",
+   "playlist": "PL9esqCzNLWdGwAAm499hVU0nKYfgWq6Ml",
+   "when": "월 1회",
+   "blurb": "해외 튜토리얼을 한국어로 다시 만들고, 템플릿을 처음부터 다시 지어 봐요."
+  }
+ ],
+ "membership": {
+  "show": true,
+  "tier": "AI 영상 프롬프트",
+  "price": "월 2,990원",
+  "perks": [
+   "AI 제작과정 영상을 일주일 먼저 보기",
+   "영상에 실제로 쓴 프롬프트 원문 txt",
+   "회원 배지와 그림 이모티콘"
+  ],
+  "join": "https://www.youtube.com/channel/UCCh-5ji2JeRRbQ13EN58S2Q/join"
+ },
+ "works": [
+  {
+   "name": "홍보영상",
+   "items": [
+    {
+     "id": "VHJBss78sKg",
+     "title": "오송 철도 클러스터",
+     "year": "2023"
+    },
+    {
+     "id": "SKaviRo2kc0",
+     "title": "청남대 홍보영상",
+     "year": "2022"
+    },
+    {
+     "id": "0EAL8aeyVis",
+     "title": "코앤코 홍보영상",
+     "year": "2024"
+    },
+    {
+     "id": "wgbNYGNCE6U",
+     "title": "충청북도의회 12대 전반기",
+     "year": "2022"
+    },
+    {
+     "id": "r0XdZsW442A",
+     "title": "오송바이오산업단지",
+     "year": "2025"
+    },
+    {
+     "id": "XcDkr0LJxYA",
+     "title": "청주시정소식",
+     "year": "2024"
+    }
+   ]
+  },
+  {
+   "name": "스팟",
+   "items": [
+    {
+     "id": "Ui--6Epp490",
+     "title": "충북경제자유구역청",
+     "year": "2025"
+    },
+    {
+     "id": "FsX9taQvgx0",
+     "title": "자연정원 충북",
+     "year": "2025"
+    },
+    {
+     "id": "XCHoRYIVHS0",
+     "title": "11대 전반기 충청북도의회 스팟",
+     "year": "2019"
+    },
+    {
+     "id": "xnVVycLD5X0",
+     "title": "충청권 하계유니버시아드 대회 유치 스팟",
+     "year": "2021"
+    }
+   ]
+  },
+  {
+   "name": "AI",
+   "items": [
+    {
+     "id": "q4Pwy2EHcCA",
+     "title": "2026 청남대 가을축제",
+     "year": "2026"
+    },
+    {
+     "id": "IRY7gdHS_Ts",
+     "title": "격이 다른 진천",
+     "year": "2026"
+    },
+    {
+     "id": "1dhJ23tKbfM",
+     "title": "충북대전환",
+     "year": "2026"
+    },
+    {
+     "id": "bu7cOMEmChc",
+     "title": "그림책정원",
+     "year": "2026"
+    },
+    {
+     "id": "OKw-Vq57aOI",
+     "title": "산불예방 스팟",
+     "year": "2026"
+    }
+   ]
+  },
+  {
+   "name": "행사 중계",
+   "items": [
+    {
+     "id": "R5LsTrT3C-s",
+     "title": "스마트팜",
+     "year": "2024"
+    },
+    {
+     "id": "GHqjPPqH3CU",
+     "title": "금산인삼축제",
+     "year": "2025"
+    },
+    {
+     "id": "Qj2SdadA1dQ",
+     "title": "RISE 초광역 협력포럼 중계",
+     "year": "2025"
+    },
+    {
+     "id": "6DFzn5z9Ky4",
+     "title": "지수화풍 중계",
+     "year": "2025"
+    }
+   ]
+  },
+  {
+   "name": "모션 그래픽",
+   "items": [
+    {
+     "id": "IJc4_ZzX58Y",
+     "title": "저탄소 벼 논물 관리기술",
+     "year": "2024"
+    },
+    {
+     "id": "AruNhbf-OwA",
+     "title": "고향사랑기부제 인포그래픽",
+     "year": "2025"
+    },
+    {
+     "id": "TwifKBI3X8o",
+     "title": "충청북도의회 CF 인포그래픽",
+     "year": "2021"
+    }
+   ]
+  }
+ ],
+ "teaching": [
+  {
+   "where": "SBS아카데미컴퓨터아트학원 대전점",
+   "what": "외부강사"
+  },
+  {
+   "where": "한국폴리텍대학 대전캠퍼스",
+   "what": "영상크리에이터과 외부강사"
+  }
+ ],
+ "contact": {
+  "email": "bermudapicture@naver.com",
+  "instagram": "https://www.instagram.com/Bermuda._.Pictures"
+ },
+ "_works_note": "작업 분류는 airmade.netlify.app portfolio_items.json(2026-10-04)을 바탕으로 사용자 지시대로 고침: 스팟에서 아르테미스 베개 뺌, AI에 청남대 가을축제·격이 다른 진천 추가, 프로그램 빼고 모션 그래픽 신설"
+}

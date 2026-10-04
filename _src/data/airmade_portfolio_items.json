@@ -1,0 +1,550 @@
+{
+  "shelves": [
+    {
+      "name": "홍보영상",
+      "items": [
+        {
+          "title": "오송 철도 클러스터",
+          "videoUrl": "https://youtu.be/VHJBss78sKg",
+          "year": "2023",
+          "thumbnail": "assets/thumbnails/osong-railway.jpg"
+        },
+        {
+          "title": "청남대 홍보영상",
+          "videoUrl": "https://youtu.be/SKaviRo2kc0",
+          "year": "2022",
+          "thumbnail": "assets/thumbnails/cheongnamdae-promo.jpg"
+        },
+        {
+          "title": "코앤코 홍보영상",
+          "videoUrl": "https://youtu.be/0EAL8aeyVis",
+          "year": "2024",
+          "thumbnail": "assets/thumbnails/coenco.jpg"
+        },
+        {
+          "title": "충청북도의회 12대 전반기",
+          "videoUrl": "https://youtu.be/wgbNYGNCE6U",
+          "year": "2022",
+          "thumbnail": "assets/thumbnails/council-12th-promo.jpg"
+        },
+        {
+          "title": "오송바이오산업단지",
+          "videoUrl": "https://youtu.be/r0XdZsW442A",
+          "year": "2025",
+          "thumbnail": "assets/thumbnails/osong-bio-complex.jpg"
+        },
+        {
+          "title": "청주시정소식",
+          "videoUrl": "https://youtu.be/XcDkr0LJxYA",
+          "year": "2024",
+          "thumbnail": "assets/thumbnails/cheongju-city-news.jpg"
+        }
+      ],
+      "tab": "portfolio"
+    },
+    {
+      "name": "스팟",
+      "items": [
+        {
+          "title": "충북경제자유구역청",
+          "videoUrl": "https://youtu.be/Ui--6Epp490",
+          "year": "2025",
+          "thumbnail": "assets/thumbnails/cbfez-spot.jpg"
+        },
+        {
+          "title": "자연정원 충북",
+          "videoUrl": "https://youtu.be/FsX9taQvgx0",
+          "year": "2025",
+          "thumbnail": "assets/thumbnails/natural-garden-chungbuk.jpg"
+        },
+        {
+          "title": "아르테미스 베개",
+          "videoUrl": "https://youtu.be/gXGuqeferhI",
+          "year": "2021",
+          "thumbnail": "assets/thumbnails/artemis-pillow.jpg"
+        },
+        {
+          "title": "11대 전반기 충청북도의회 스팟",
+          "videoUrl": "https://youtu.be/XCHoRYIVHS0",
+          "year": "2019",
+          "thumbnail": "assets/thumbnails/council-11th-spot.jpg"
+        },
+        {
+          "title": "충청권 하계유니버시아드 대회 유치 스팟",
+          "videoUrl": "https://youtu.be/xnVVycLD5X0",
+          "year": "2021",
+          "thumbnail": "assets/thumbnails/universiade-bid.jpg"
+        }
+      ],
+      "tab": "portfolio"
+    },
+    {
+      "name": "AI",
+      "items": [
+        {
+          "title": "충북대전환",
+          "videoUrl": "https://youtu.be/1dhJ23tKbfM",
+          "year": "2026",
+          "thumbnail": "assets/thumbnails/chungbuk-new-era.jpg"
+        },
+        {
+          "title": "그림책정원",
+          "videoUrl": "https://youtu.be/bu7cOMEmChc",
+          "year": "2026",
+          "thumbnail": "assets/thumbnails/picturebook-garden.jpg"
+        },
+        {
+          "title": "산불예방 스팟",
+          "videoUrl": "https://youtu.be/OKw-Vq57aOI",
+          "year": "2026",
+          "thumbnail": "assets/thumbnails/wildfire-prevention.jpg"
+        }
+      ],
+      "tab": "portfolio"
+    },
+    {
+      "name": "행사 중계",
+      "items": [
+        {
+          "title": "스마트팜",
+          "videoUrl": "https://youtu.be/R5LsTrT3C-s",
+          "year": "2024",
+          "thumbnail": "assets/thumbnails/smartfarm-symposium.jpg"
+        },
+        {
+          "title": "금산인삼축제",
+          "videoUrl": "https://youtu.be/GHqjPPqH3CU",
+          "year": "2025",
+          "thumbnail": "assets/thumbnails/geumsan-ginseng.jpg"
+        },
+        {
+          "title": "RISE 초광역 협력포럼 중계",
+          "videoUrl": "https://youtu.be/Qj2SdadA1dQ",
+          "year": "2025",
+          "thumbnail": "assets/thumbnails/rise-forum.jpg"
+        },
+        {
+          "title": "지수화풍 중계",
+          "videoUrl": "https://youtu.be/6DFzn5z9Ky4",
+          "year": "2025",
+          "thumbnail": "assets/thumbnails/jisuhwapung-concert.jpg"
+        }
+      ],
+      "tab": "portfolio"
+    },
+    {
+      "name": "프로그램",
+      "subLabel": "방송 외주제작",
+      "items": [
+        {
+          "title": "충북 KBS",
+          "videoUrl": "https://youtu.be/rYNv7nAUfsQ",
+          "year": "2019",
+          "thumbnail": "assets/thumbnails/kbs-chungbuk-news.jpg"
+        },
+        {
+          "title": "YTN싸이언스",
+          "videoUrl": "https://youtu.be/2Vl4o5-7oNA",
+          "year": "2016",
+          "thumbnail": "assets/thumbnails/ytn-science.jpg"
+        }
+      ],
+      "tab": "portfolio"
+    },
+    {
+      "name": "홍보영상",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "청남대 종합교육 영상",
+          "videoUrl": "https://youtu.be/cWHg2S3fSE8",
+          "year": "2024",
+          "thumbnail": "https://img.youtube.com/vi/cWHg2S3fSE8/hqdefault.jpg"
+        },
+        {
+          "title": "청남대 MICE 홍보영상",
+          "videoUrl": "https://youtu.be/hYwtvcPWpRw",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/hYwtvcPWpRw/hqdefault.jpg"
+        },
+        {
+          "title": "충북자치연수원 제천 이전",
+          "videoUrl": "https://youtu.be/5UPQI4S2eYc",
+          "year": "2026",
+          "thumbnail": "https://img.youtube.com/vi/5UPQI4S2eYc/hqdefault.jpg"
+        },
+        {
+          "title": "충북 투자유치 홍보동영상",
+          "videoUrl": "https://youtu.be/8VcwB2xkMkM",
+          "year": "2022",
+          "thumbnail": "https://i.ytimg.com/vi/8VcwB2xkMkM/maxresdefault.jpg"
+        },
+        {
+          "title": "충청북도교육문화원",
+          "videoUrl": "https://youtu.be/M24WLD1P5XI",
+          "year": "2019",
+          "thumbnail": "https://i.ytimg.com/vi/M24WLD1P5XI/maxresdefault.jpg"
+        },
+        {
+          "title": "한국폴리텍대학 충주캠퍼스 홍보영상",
+          "videoUrl": "https://youtu.be/YJxwkgqPV44",
+          "year": "2023",
+          "thumbnail": "https://i.ytimg.com/vi/YJxwkgqPV44/hqdefault.jpg"
+        },
+        {
+          "title": "37사단 홍보영상",
+          "videoUrl": "https://youtu.be/K2s-WUh1rVs",
+          "year": "2018",
+          "thumbnail": "https://img.youtube.com/vi/K2s-WUh1rVs/hqdefault.jpg"
+        },
+        {
+          "title": "청주시 365! 두드림",
+          "videoUrl": "https://youtu.be/DXkezM4CQ24",
+          "year": "2015",
+          "thumbnail": "https://img.youtube.com/vi/DXkezM4CQ24/hqdefault.jpg"
+        },
+        {
+          "title": "충북농업마이스터대학",
+          "videoUrl": "https://youtu.be/3hniZaD1Q2g",
+          "year": "2022",
+          "thumbnail": "https://i.ytimg.com/vi/3hniZaD1Q2g/maxresdefault.jpg"
+        },
+        {
+          "title": "백곡 김득신의 책 읽는 증평",
+          "videoUrl": "https://youtu.be/vYPYCcAw6nU",
+          "year": "2016",
+          "thumbnail": "https://img.youtube.com/vi/vYPYCcAw6nU/hqdefault.jpg"
+        },
+        {
+          "title": "국립전주어린이박물관 홍보영상",
+          "videoUrl": "https://youtu.be/qoUAp0o_Yz0",
+          "year": "2020",
+          "thumbnail": "https://img.youtube.com/vi/qoUAp0o_Yz0/hqdefault.jpg"
+        },
+        {
+          "title": "오송식품안심거리",
+          "videoUrl": "https://youtu.be/uJb_79jhu7g",
+          "year": "2024",
+          "thumbnail": "https://i.ytimg.com/vi/uJb_79jhu7g/maxresdefault.jpg"
+        },
+        {
+          "title": "괴산 유기농엑스포 · 청년농부",
+          "videoUrl": "https://youtu.be/LV39YaAAIm4",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/LV39YaAAIm4/hqdefault.jpg"
+        },
+        {
+          "title": "충북농업기술원 폐비닐 수집기",
+          "videoUrl": "https://youtu.be/_p37AWkHX3o",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/_p37AWkHX3o/hqdefault.jpg"
+        },
+        {
+          "title": "「미장미과」 충북쌀 베이커리 홍보영상",
+          "videoUrl": "https://youtu.be/BXLUC1mpucM",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/BXLUC1mpucM/hqdefault.jpg"
+        },
+        {
+          "title": "충북농업기술원 스마트관수시스템",
+          "videoUrl": "https://youtu.be/jeOFmXATrVY",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/jeOFmXATrVY/hqdefault.jpg"
+        },
+        {
+          "title": "충청북도 인구정책",
+          "videoUrl": "https://youtu.be/RwdVoQzI-M4",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/RwdVoQzI-M4/hqdefault.jpg"
+        },
+        {
+          "title": "백미명품마을",
+          "videoUrl": "https://youtu.be/T3EYd8tz_yo",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/T3EYd8tz_yo/hqdefault.jpg"
+        },
+        {
+          "title": "충북형 도시농부(홍보)",
+          "videoUrl": "https://youtu.be/ia-_8bjJKy4",
+          "year": "2023",
+          "thumbnail": "https://i.ytimg.com/vi/ia-_8bjJKy4/maxresdefault.jpg"
+        },
+        {
+          "title": "오송 K-바이오 스퀘어",
+          "videoUrl": "https://youtu.be/bEsB-Dtni84",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/bEsB-Dtni84/hqdefault.jpg"
+        },
+        {
+          "title": "WHO 캠퍼스 유치 영상",
+          "videoUrl": "https://youtu.be/WfaC1a6xhmw",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/WfaC1a6xhmw/hqdefault.jpg"
+        },
+        {
+          "title": "오송 MGH 유치 영상",
+          "videoUrl": "https://youtu.be/PW6iQkAPO_c",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/PW6iQkAPO_c/hqdefault.jpg"
+        },
+        {
+          "title": "오송 롯데바이오로직스 유치 영상",
+          "videoUrl": "https://youtu.be/b-ppur8Nrms",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/b-ppur8Nrms/hqdefault.jpg"
+        },
+        {
+          "title": "음성군 10대 뉴스",
+          "videoUrl": "https://youtu.be/I4KTFQQU9D8",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/I4KTFQQU9D8/hqdefault.jpg"
+        },
+        {
+          "title": "충북농업기술원 대표 홍보영상",
+          "videoUrl": "https://youtu.be/Okt6zYn5LfA",
+          "year": "2026",
+          "thumbnail": "https://i.ytimg.com/vi/Okt6zYn5LfA/maxresdefault.jpg"
+        },
+        {
+          "title": "「격이 다른 진천」 홍보영상",
+          "videoUrl": "https://youtu.be/IRY7gdHS_Ts",
+          "year": "2026",
+          "thumbnail": "https://i.ytimg.com/vi/IRY7gdHS_Ts/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "name": "스팟",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "「새롭게 신나게」 스팟",
+          "videoUrl": "https://youtu.be/_Vz_SQCrV5E",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/_Vz_SQCrV5E/hqdefault.jpg"
+        },
+        {
+          "title": "음성군 홍보 스팟",
+          "videoUrl": "https://youtu.be/uhkWNIxitDA",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/uhkWNIxitDA/hqdefault.jpg"
+        },
+        {
+          "title": "충북 투자유치 스팟",
+          "videoUrl": "https://youtu.be/FjXH6DlN6yw",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/FjXH6DlN6yw/hqdefault.jpg"
+        },
+        {
+          "title": "사이버폭력 예방교육 캠페인",
+          "videoUrl": "https://youtu.be/wXhFtoszFrk",
+          "year": "2020",
+          "thumbnail": "https://img.youtube.com/vi/wXhFtoszFrk/hqdefault.jpg"
+        },
+        {
+          "title": "학교폭력예방 캠페인 CF",
+          "videoUrl": "https://youtu.be/mXarWDY5zn4",
+          "year": "2016",
+          "thumbnail": "https://i.ytimg.com/vi/mXarWDY5zn4/maxresdefault.jpg"
+        },
+        {
+          "title": "학업중단예방캠페인 캠페인 CF",
+          "videoUrl": "https://youtu.be/Y_fFofViYWg",
+          "year": "2016",
+          "thumbnail": "https://i.ytimg.com/vi/Y_fFofViYWg/maxresdefault.jpg"
+        },
+        {
+          "title": "의료비 후불제 CF",
+          "videoUrl": "https://youtu.be/b3j6ZtHLoCE",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/b3j6ZtHLoCE/hqdefault.jpg"
+        },
+        {
+          "title": "충북여행에서 만나는 유기농 CF",
+          "videoUrl": "https://youtu.be/88g4qO7DM-Y",
+          "year": "2015",
+          "thumbnail": "https://i.ytimg.com/vi/88g4qO7DM-Y/maxresdefault.jpg"
+        },
+        {
+          "title": "청풍명월장터 CF",
+          "videoUrl": "https://youtu.be/FyYh__vVnsE",
+          "year": "2020",
+          "thumbnail": "https://img.youtube.com/vi/FyYh__vVnsE/hqdefault.jpg"
+        },
+        {
+          "title": "온충북 스팟",
+          "videoUrl": "https://youtu.be/893sN8pFegs",
+          "year": "2025",
+          "thumbnail": "https://img.youtube.com/vi/893sN8pFegs/hqdefault.jpg"
+        },
+        {
+          "title": "라떼 파파 스팟",
+          "videoUrl": "https://youtu.be/IYCsOMXl0dM",
+          "year": "2024",
+          "thumbnail": "https://img.youtube.com/vi/IYCsOMXl0dM/hqdefault.jpg"
+        },
+        {
+          "title": "충청북도 출산육아수당 스팟",
+          "videoUrl": "https://youtu.be/3en0m-jAqgo",
+          "year": null,
+          "thumbnail": "https://img.youtube.com/vi/3en0m-jAqgo/hqdefault.jpg"
+        },
+        {
+          "title": "메밀정원 식당 광고",
+          "videoUrl": "https://youtu.be/fDAfMiT-UUs",
+          "year": "2023",
+          "thumbnail": "https://img.youtube.com/vi/fDAfMiT-UUs/hqdefault.jpg"
+        },
+        {
+          "title": "청남대 가을축제 스팟",
+          "videoUrl": "https://youtu.be/q4Pwy2EHcCA",
+          "year": "2026",
+          "thumbnail": "https://i.ytimg.com/vi/q4Pwy2EHcCA/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "tab": "videos",
+      "items": []
+    },
+    {
+      "name": "모션 및 인포그래픽",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "고향사랑기부제 인포그래픽",
+          "videoUrl": "https://youtu.be/AruNhbf-OwA",
+          "year": "2025",
+          "thumbnail": "https://i.ytimg.com/vi/AruNhbf-OwA/maxresdefault.jpg"
+        },
+        {
+          "title": "충청북도의회 인포그래픽 CF",
+          "videoUrl": "https://youtu.be/TwifKBI3X8o",
+          "year": null,
+          "thumbnail": "https://img.youtube.com/vi/TwifKBI3X8o/hqdefault.jpg"
+        },
+        {
+          "title": "충청북도의회 11대 후반기 CF",
+          "videoUrl": "https://youtu.be/2IFVx_fbR1s",
+          "year": null,
+          "thumbnail": "https://img.youtube.com/vi/2IFVx_fbR1s/hqdefault.jpg"
+        },
+        {
+          "title": "충청북도 1분 정책 설명 영상",
+          "videoUrl": "https://youtu.be/YHxjzyHQ2BQ",
+          "year": "2024",
+          "thumbnail": "https://img.youtube.com/vi/YHxjzyHQ2BQ/hqdefault.jpg"
+        },
+        {
+          "title": "저탄소 벼 논물 관리기술 보급(인포그래픽)",
+          "videoUrl": "https://youtu.be/IJc4_ZzX58Y",
+          "year": "2024",
+          "thumbnail": "https://i.ytimg.com/vi/IJc4_ZzX58Y/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "name": "드라마 및 다큐",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "국립해양생물자원관 드라마 콘텐츠",
+          "videoUrl": "https://youtu.be/WHJ4B6DaOJY",
+          "year": "2020",
+          "thumbnail": "https://img.youtube.com/vi/WHJ4B6DaOJY/hqdefault.jpg"
+        },
+        {
+          "title": "사진으로 기록한 충북의 사관(史官) — 사진작가 김운기",
+          "videoUrl": "https://youtu.be/yoZEehxGxEw",
+          "year": "2025",
+          "thumbnail": "https://i.ytimg.com/vi/yoZEehxGxEw/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "name": "스케치 및 메이킹",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "국립중앙박물관 경천사지 메이킹",
+          "videoUrl": "https://youtu.be/XBrhRUDpkuY",
+          "year": "2019",
+          "thumbnail": "https://img.youtube.com/vi/XBrhRUDpkuY/hqdefault.jpg"
+        },
+        {
+          "title": "홍릉수목원 3D 스캔 메이킹",
+          "videoUrl": "https://youtu.be/-Tin-DkCtR8",
+          "year": "2022",
+          "thumbnail": "https://img.youtube.com/vi/-Tin-DkCtR8/hqdefault.jpg"
+        },
+        {
+          "title": "2019 청주국제공예비엔날레 메이킹",
+          "videoUrl": "https://youtu.be/8RWHU_hgYNU",
+          "year": "2019",
+          "thumbnail": "https://img.youtube.com/vi/8RWHU_hgYNU/hqdefault.jpg"
+        },
+        {
+          "title": "2025 청주시한국공예관 [시민공예학교] 일반강좌",
+          "videoUrl": "https://youtu.be/s4WYnHD5gz8",
+          "year": "2025",
+          "thumbnail": "https://i.ytimg.com/vi/s4WYnHD5gz8/maxresdefault.jpg"
+        },
+        {
+          "title": "2025 청주시한국공예관 [시민공예학교] 수료전 《조각집》",
+          "videoUrl": "https://youtu.be/mWlpGipHQ_k",
+          "year": "2025",
+          "thumbnail": "https://i.ytimg.com/vi/mWlpGipHQ_k/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "name": "기념 및 성과영상",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "충북의 삼일운동 행사영상",
+          "videoUrl": "https://youtu.be/dlY8GUC3Tig",
+          "year": "2025",
+          "thumbnail": "https://i.ytimg.com/vi/dlY8GUC3Tig/maxresdefault.jpg"
+        },
+        {
+          "title": "민선8기 2년 기념영상",
+          "videoUrl": "https://youtu.be/f6nbIMkbchQ",
+          "year": "2024",
+          "thumbnail": "https://i.ytimg.com/vi/f6nbIMkbchQ/maxresdefault.jpg"
+        },
+        {
+          "title": "지역균형발전 사업 성과 영상",
+          "videoUrl": "https://youtu.be/0gL8OwBMW7o",
+          "year": "2021",
+          "thumbnail": "https://img.youtube.com/vi/0gL8OwBMW7o/hqdefault.jpg"
+        },
+        {
+          "title": "도시농부 도농상생 중심에서다 성과영상",
+          "videoUrl": "https://youtu.be/X8fGufGSOzc",
+          "year": "2023",
+          "thumbnail": "https://i.ytimg.com/vi/X8fGufGSOzc/maxresdefault.jpg"
+        },
+        {
+          "title": "도시농부 성과 영상",
+          "videoUrl": "https://youtu.be/J2QbntDBLv4",
+          "year": "2024",
+          "thumbnail": "https://img.youtube.com/vi/J2QbntDBLv4/hqdefault.jpg"
+        }
+      ]
+    },
+    {
+      "name": "애니메이션",
+      "tab": "videos",
+      "items": [
+        {
+          "title": "우물가에 하하 호호3D 애니메이션 단편 영화",
+          "videoUrl": "https://youtu.be/l1ibNRlnJjU",
+          "year": "2026",
+          "thumbnail": "https://i.ytimg.com/vi/l1ibNRlnJjU/maxresdefault.jpg"
+        }
+      ]
+    }
+  ]
+}
