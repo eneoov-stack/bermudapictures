@@ -21,20 +21,17 @@ img { display: block; max-width: 100%; }
 button { font: inherit; color: inherit; }
 [hidden] { display: none !important; }
 
-/* 머리 — Artlist처럼 떠 있는 유리 막대: 로고와 탭은 왼쪽에 붙이고, 오른쪽에 문의 버튼 (사용자 2026-10-04) */
-.top { position: fixed; top: 14px; left: 0; right: 0; z-index: 20; display: flex; justify-content: center; padding: 0 16px; pointer-events: none; }
-.bar { pointer-events: auto; display: flex; align-items: center; gap: clamp(12px, 2.4vw, 28px); width: min(1240px, 100%); height: 58px; padding: 0 10px 0 18px;
-  background: rgba(22, 22, 25, 0.52); -webkit-backdrop-filter: blur(18px) saturate(140%); backdrop-filter: blur(18px) saturate(140%);
-  border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 16px; box-shadow: 0 10px 40px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.06); }
-.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; letter-spacing: 0.12em; font-size: 13px; white-space: nowrap; }
-.brand img { width: 28px; height: 28px; }
-.tabs { display: flex; gap: 2px; }
-.tabs a { padding: 8px 14px; border-radius: 10px; color: rgba(243, 239, 232, 0.72); font-size: 15px; font-weight: 600; transition: color .2s, background .2s; }
-.tabs a:hover { color: var(--text); background: rgba(255, 255, 255, 0.06); }
-.tabs a[aria-current="page"] { color: var(--text); background: rgba(255, 255, 255, 0.1); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08); }
-.bar-cta { margin-left: auto; padding: 9px 18px; border-radius: 11px; background: var(--accent); color: #111; font-size: 14px; font-weight: 700; white-space: nowrap; transition: background .2s; }
-.bar-cta:hover { background: var(--accent-2); }
-main.no-hero { padding-top: 72px; }
+/* 머리 — 같은 크기의 유리 상자 넷을 가운데에 고르게 (사용자 2026-10-04: 로고·문의 버튼 없이 탭 넷만) */
+.top { position: fixed; top: 16px; left: 0; right: 0; z-index: 20; display: flex; justify-content: center; padding: 0 16px; pointer-events: none; }
+.tabs { pointer-events: auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; width: min(560px, 100%); }
+.tabs a { display: flex; align-items: center; justify-content: center; height: 48px; border-radius: 14px;
+  color: rgba(243, 239, 232, 0.78); font-size: 15px; font-weight: 600; letter-spacing: 0.02em;
+  background: rgba(22, 22, 25, 0.45); -webkit-backdrop-filter: blur(16px) saturate(140%); backdrop-filter: blur(16px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.07);
+  transition: color .2s, background .2s, border-color .2s, transform .2s; }
+.tabs a:hover { color: var(--text); background: rgba(40, 40, 44, 0.55); border-color: rgba(255, 255, 255, 0.18); transform: translateY(-1px); }
+.tabs a[aria-current="page"] { color: var(--accent); background: rgba(255, 182, 0, 0.1); border-color: rgba(255, 182, 0, 0.45); }
+main.no-hero { padding-top: 80px; }
 
 /* 히어로 */
 .hero { position: relative; overflow: hidden; min-height: 100vh; max-height: 960px; display: flex; align-items: center;
@@ -144,16 +141,13 @@ footer a:hover { color: var(--accent); }
 .lb-close::after { transform: rotate(-45deg); }
 
 @media (max-width: 1000px) {
-  .brand span { display: none; }
   .grid.four, .grid.three { grid-template-columns: repeat(2, 1fr); }
   .pillars, .contact-cards { grid-template-columns: 1fr; }
   .member-box { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
-  .brand span { display: none; }
-  .bar { padding: 0 8px 0 12px; gap: 6px; }
-  .tabs a { padding: 8px 10px; font-size: 14px; }
-  .bar-cta { padding: 8px 12px; font-size: 13px; }
+  .tabs { gap: 8px; }
+  .tabs a { height: 44px; font-size: 14px; border-radius: 12px; }
   .teach, .series { grid-template-columns: 1fr; }
   .grid.four, .grid.three { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .work .meta { padding: 12px 10px; }
@@ -163,4 +157,3 @@ footer a:hover { color: var(--accent); }
   .head-row { flex-direction: column; align-items: start; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
-@media (max-width: 400px) { .bar-cta { display: none; } }
